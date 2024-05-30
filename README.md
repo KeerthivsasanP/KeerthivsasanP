@@ -9,7 +9,7 @@ My name is Keerthivasan. I am looking for a place where I could collaborate with
 
 # Project(s) 🏗️
 - [x] Online cattle sale system with PHP 🐘 
-- [ ] Made a simple flash card application with python 🐍
+- [x] Made a simple flash card application with python 🐍
 
 
 
