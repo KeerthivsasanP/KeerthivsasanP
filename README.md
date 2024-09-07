@@ -4,7 +4,7 @@ My name is Keerthivasan. I am looking for a place where I could collaborate with
 
 - 🌱 I’m currently learning Python and brushing up my SQL and programming skills.
 - 😄 Pronoun: He
-- 🛠️ I like to be identified as a programmer though I work on monitoring. 
+- 🛠️ I like to be identified as a programmer.
 - 📫 How to reach me? -> pkv1091@gmail.com / 9092211922
 
 # Project(s) 🏗️
