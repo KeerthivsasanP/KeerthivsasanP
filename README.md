@@ -9,6 +9,6 @@ My name is Keerthivasan. I am looking for a place where I could collaborate with
 - 📫 How to reach me? -> pkv1091@gmail.com / 9092211922
 
 # Project(s) 🏗️
-- [x] Online cattle sale system with <h2>PHP<h2> 🐘 
+- [x] Online cattle sale system with PHP 🐘 
 - [x] Flash card application with Python 🐍
 - [x] Created a ticketing tool with Flask ▼
