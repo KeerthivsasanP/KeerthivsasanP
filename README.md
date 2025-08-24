@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Keerthivasan. I am looking for a place where I could collaborate with others with a similar thoughts. 
+My name is Keerthivasan.
 
 - 🌱 I’m a python developer who is intersted in learning the language as much as possible and leverage it to make life simple.
 - 🛢️ Knowledgeable enough to create a DB that obeys the ACID property. Have good knowledge on querying data from the DB.
